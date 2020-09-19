@@ -1,1 +1,2 @@
-# RiceHacksX
+# Hack Rice X
+COllabs
